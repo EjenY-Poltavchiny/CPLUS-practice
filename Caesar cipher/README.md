@@ -14,10 +14,6 @@ Implementation of the **Caesar Cipher** in C++.
 * [workplace.vcxproj.filters](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Caesar%20cipher/workplace.vcxproj.filters) - project file
 * [workplace.vcxproj.user](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Caesar%20cipher/workplace.vcxproj.user) - project file
 
-# Author 
-
-Poltavtsev Evgeniy
-
 # Enviroment
 
 Visual Studio 2022
