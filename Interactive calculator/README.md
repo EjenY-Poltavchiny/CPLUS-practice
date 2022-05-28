@@ -14,3 +14,4 @@ Implementation of a program that performs simple arithmetic and bitwise operatio
 * [Project_2.vcxproj](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Interactive%20calculator/Project_2.vcxproj) - project file
 * [Project_2.vcxproj.filters](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Interactive%20calculator/Project_2.vcxproj.filters) - project file
 * [Project_2.vcxproj.user](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Interactive%20calculator/Project_2.vcxproj.user) - project file
+* [Project_2.sln](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Interactive%20calculator/Project_2.sln) - project file 
