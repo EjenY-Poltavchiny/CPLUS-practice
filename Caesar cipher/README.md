@@ -13,7 +13,3 @@ Implementation of the **Caesar Cipher** in C++.
 * [workplace.vcxproj](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Caesar%20cipher/workplace.vcxproj) - project file
 * [workplace.vcxproj.filters](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Caesar%20cipher/workplace.vcxproj.filters) - project file
 * [workplace.vcxproj.user](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Caesar%20cipher/workplace.vcxproj.user) - project file
-
-# Enviroment
-
-Visual Studio 2022
