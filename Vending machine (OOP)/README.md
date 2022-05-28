@@ -4,3 +4,17 @@ The task of the OOP is to create a class of a snack machine with a certain funct
 
 # Files
 
+* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/main.cpp)
+ 
+Checking the operation of class functions, getters and setters, overloads of class operators. The work of most of them is in the project description above.
+
+* [VendingMachine.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/VendingMachine.h) - declaration of the VendingMachine
+* [VendingMachine.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/VendingMachine.cpp) - implementation of the VendingMachine class with its functionality
+* [SnackSlot.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/SnackSlot.h) - declaration of the SnackSlot class
+* [SnackSlot.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/SnackSlot.cpp) - implementation of the SnackSlot class with its functionality
+* [Snack.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Snack.h) - declaration of the Snack class
+* [Snack.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Snack.cpp) - implementation of the Snack class with its functionality
+* [Project_3.sln](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Project_3.sln) - project file
+* [Project_3.vcxproj](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Project_3.vcxproj) - project file
+* [Project_3.vcxproj.filters](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Project_3.vcxproj.filters) - project file
+* [Project_3.vcxproj.user](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/Project_3.vcxproj.user) - project file
