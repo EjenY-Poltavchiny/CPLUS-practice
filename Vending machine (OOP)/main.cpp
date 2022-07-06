@@ -4,6 +4,7 @@
 #include "VendingMachine.h"
 
 int main() {
+	// комментирую
 	system("chcp 1251");
 	Snack* bounty = new Snack("Bounty", 55);
 	Snack* lays = new Snack("Lays_cheese", 65);
