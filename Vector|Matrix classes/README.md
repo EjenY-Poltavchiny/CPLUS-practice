@@ -6,7 +6,7 @@ The task of the **OOP** is to create a **basic** vector and matrix classes.
 
 # Files
 
-* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Vending%20machine%20(OOP)/main.cpp)
+* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/new/main/Vector%7CMatrix%20classes)/main.cpp)
  
 Checking the operation of class functions, getters and setters, overloads of class operators. The work of most of them is in the project description above.
 
