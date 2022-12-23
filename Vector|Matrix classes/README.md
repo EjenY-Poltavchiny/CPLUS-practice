@@ -14,4 +14,3 @@ Checking the operation of class functions, getters and setters, overloads of cla
 * [vector.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/new/main/Vector%7CMatrix%20classes.vectorcpp) - implementation of the vector class with its functionality
 * [matrix.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/new/main/Vector%7CMatrix%20classes/matrix.h) - declaration of the matrix class
 * [matrix.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/new/main/Vector%7CMatrix%20classes/matrix.cpp) - implementation of the matrix class with its functionality
-* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/new/main/Vector%7CMatrix%20classes/main.cpp) - some functionality tests
