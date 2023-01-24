@@ -8,9 +8,9 @@ Implementation of **iteration method**. Implementation contains some extra funct
 
 # Files
 
-* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/edit/main/Iteration_method/main.cpp) - some **tests** of classes **functionality** and **iteration method** realization 
-* [matrix.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/edit/main/Iteration_method/matrix.cpp) - implementation of the matrix class
-* [vector.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/edit/main/Iteration_method/vector.cpp) - implementation of the vector class
-* [matrix.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/edit/main/Iteration_method/matrix.h) - declaration of the matrix class
-* [vector.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/edit/main/Iteration_method/vector.h) - declaration of the vector class
+* [main.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Iteration_method/main.cpp) - some **tests** of classes **functionality** and **iteration method** realization 
+* [matrix.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Iteration_method/matrix.cpp) - implementation of the matrix class
+* [vector.cpp](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Iteration_method/vector.cpp) - implementation of the vector class
+* [matrix.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Iteration_method/matrix.h) - declaration of the matrix class
+* [vector.h](https://github.com/EjenY-Poltavchiny/CPLUS-practice/blob/main/Iteration_method/vector.h) - declaration of the vector class
 
