@@ -1,4 +1,3 @@
-#pragma once
 
 struct answer
 {
@@ -8,8 +7,8 @@ struct answer
 
 
 
-int maximum(int*, int);
+struct answer maximum(int*, int);
 struct answer max_pseudomax(int*, int);
-int noneven_max(int*, int)
+int noneven_max(int*, int);
 
 

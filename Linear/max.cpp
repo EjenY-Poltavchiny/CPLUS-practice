@@ -3,19 +3,22 @@
 
 //One maximum task  
 
-int maximum(int* mass, int n)
+answer maximum(int* mass, int n)
 {
+	answer ans;
 	if (n == 0)
 	{	
 		std::cout << "There is no maximum in empty sequence" << std::endl;
 		exit(1);
 	}
-	int ans = mass[0];
+	ans.first = mass[0];
+	ans.second = 0;
 	for (int i = 0; i < n; ++i)
 	{
-		if (ans < mass[i])
+		if (ans.first < mass[i])
 		{
-			ans = mass[i];
+			ans.first = mass[i];
+			ans.second = i;
 		}
 	}
 	return ans;
