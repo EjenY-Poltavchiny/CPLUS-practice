@@ -1,3 +1,5 @@
+<img src="Readme_info/1610504427_4-p-belii-fon-dlya-yandeksa-13.jpg" alt="drawing" width="100"/>
+
 # String duplicates
 
 The **task** is to find the letter in string wich **have the most duplicates**.
