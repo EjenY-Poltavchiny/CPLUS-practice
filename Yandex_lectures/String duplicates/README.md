@@ -1,4 +1,4 @@
-<img src="https://github.com/EjenY-Poltavchiny/CPLUS-practice/tree/main/String%20duplicates/Readme_info/1610504427_4-p-belii-fon-dlya-yandeksa-13.jpg" alt="drawing" width="100"/>
+<img src= Readme_info/1610504427_4-p-belii-fon-dlya-yandeksa-13.jpg" alt="drawing" width="100"/>
 
 # String duplicates
 
