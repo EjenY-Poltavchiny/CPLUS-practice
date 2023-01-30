@@ -1,4 +1,4 @@
-<img src=Readme_info/1610504427_4-p-belii-fon-dlya-yandeksa-13.jpg" alt="drawing" width="600"/>
+<img src=Readme_info/logo.jpg" alt="drawing" width="600"/>
 
 # String duplicates
 
