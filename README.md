@@ -7,4 +7,4 @@ Poltavtsev Evgeniy
 
 # Enviroment 
 
-[Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/)
+[Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/), VIM Editor 😎
